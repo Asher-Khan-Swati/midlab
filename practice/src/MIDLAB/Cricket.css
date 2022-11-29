@@ -1,0 +1,84 @@
+#main{
+      
+      
+    border:1px solid black;
+}
+#menu{
+    width: 100vw;
+    height: 10vh;
+    
+    background-color: grey;
+      display: flex;
+}
+#middle_section{
+    width: 100vw;
+    
+    
+}
+#footer{
+    width: 100vw;
+    height: 10vh;
+
+    background-color: pink;
+}
+#left_side_bar{
+    
+    background-color: black;
+    
+    
+}
+#right_side_bar{
+    
+    background-color: black;
+    
+}
+#middlesec{
+    
+    background-color: yellow;
+    
+}
+#section1{
+    margin-left: 10%;
+    margin-top: 1%;
+    display: inline;
+    color: white;
+}
+
+#section2{
+    margin-top: 2%;
+    margin-left: 8%;
+    display: flex;
+    justify-content: center; 
+    color: white;
+    
+}
+.links{
+    
+    padding-left: 6%;
+      text-decoration: none;
+    display: flex;
+    color: white;
+}
+#section3{
+
+    margin-left: 12%;
+    margin-top: 1.5%;
+    display: flex;
+    
+}
+
+.icons{
+    
+    color: white;
+    margin-left: 30px;
+    margin-top: 4px;
+}
+#edition{
+    color: white;
+}
+.links:hover{
+          background-color: red;
+}
+#section1:hover{
+    background-color: red;
+}
